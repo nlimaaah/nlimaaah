@@ -19,8 +19,8 @@
 
 <img src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
             
-             
-<img src="https://github-readme-stats.vercel.app/api?username=nlimaaah&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true">
+ <br>            
+<img src="https://github-readme-stats.vercel.app/api?username=nlimaaah&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"><br>
 
 
 
