@@ -1,5 +1,5 @@
 <body>
-       <font face=" Arial" size="7" color="pink">
+       
     
   <b>☕Hello! Welcome to my Github profile.My name is Natani<b></b> Lima.<b><br>
 <div align="center"
